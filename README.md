@@ -41,12 +41,12 @@ I love to dance and listen to music in my free time! Sometimes I even go to the 
     <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="50" height="50"/>
     <img src="https://img.icons8.com/color/48/000000/net-framework.png" alt=".NET" width="50" height="50"/>
     <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="Visual Studio Code" width="50" height="50"/>
-    <img src="https://img.icons8.com/color/48/000000/visual-studio-2019.png" alt="Visual Studio" width="50" height="50"/>
     <img src="https://skillicons.dev/icons?i=c"  alt="Dev C" width="50" height="50"/>
     <img src="https://img.icons8.com/color/48/000000/apache-netbeans.png" alt="Apache NetBeans" width="50" height="50"/>
     <img src="https://img.icons8.com/color/48/000000/intellij-idea.png" alt="IntelliJ IDEA" width="50" height="50"/>
     <img src="https://img.icons8.com/color/48/000000/mysql.png" alt="MySQL" width="50" height="50"/>
-    <img src="https://img.icons8.com/color/48/000000/github.png" alt="GitHub" width="50" height="50"/>
+    <img src="https://skillicons.dev/icons?i=github"  alt="Dev C" width="50" height="50"/>
+    <img src="https://skillicons.dev/icons?i=figma"  alt="Dev C" width="50" height="50"/>
 </div>
 
 ---
@@ -77,7 +77,6 @@ I love to dance and listen to music in my free time! Sometimes I even go to the 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([https://instagram.com/yourhandle](https://www.instagram.com/minh_tuns.231/))
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100021450552368)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](tuannm23.dev@gmail.com)
 
 ---
 
