@@ -49,10 +49,7 @@ I love to dance and listen to music in my free time! Sometimes I even go to the 
     <img src="https://skillicons.dev/icons?i=figma"  alt="Dev C" width="50" height="50"/>
 </div>
 
-<h2 align="center">🚀 My Projects</h2><br>
-- [Job Seeker](https://github.com/MinhTuanK17/Job_Seeker): A web application to help users find job opportunities and manage their job applications.
-- [Motorcycle Rental](https://github.com/huypham67/MotorcycleRental): A project for motorcycle rental management.
-<br>
+
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
@@ -60,6 +57,11 @@ I love to dance and listen to music in my free time! Sometimes I even go to the 
   
   <br/><br/>
 </div>
+
+### 🚀 My Projects
+- [Job Seeker](https://github.com/MinhTuanK17/Job_Seeker): A web application to help users find job opportunities and manage their job applications.
+- [Motorcycle Rental](https://github.com/huypham67/MotorcycleRental): A project for motorcycle rental management.
+<br> 
 
 ### 📈 GitHub Stats
 ![Minh-Tuan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Minh-TuanDev&show_icons=true&theme=radical)
