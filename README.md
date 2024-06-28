@@ -61,13 +61,15 @@ I love to dance and listen to music in my free time! Sometimes I even go to the 
   <br/><br/>
 </div>
 
-### 🔗 Connect with Me
+### 📈 GitHub Stats
 ![Minh-Tuan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Minh-TuanDev&show_icons=true&theme=radical)
 <br>
-<h2 align="center">📊 Top Languages</h2><br>
+
+### 📊 Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Minh-TuanDev&layout=compact&theme=radical)
 <br>
-<h2 align="center">🔗 Connect with Me</h2><br>
+
+### 🔗 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/minh_tuns.231/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100021450552368)
