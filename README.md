@@ -61,7 +61,7 @@ I love to dance and listen to music in my free time! Sometimes I even go to the 
   <br/><br/>
 </div>
 
-<h2 align="center">📈 GitHub Stats</h2><br>
+### 🔗 Connect with Me
 ![Minh-Tuan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Minh-TuanDev&show_icons=true&theme=radical)
 <br>
 <h2 align="center">📊 Top Languages</h2><br>
