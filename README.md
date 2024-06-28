@@ -30,7 +30,7 @@ I love to dance and listen to music in my free time! Sometimes I even go to the 
 
 ---
 
-### 🚀 Languages-Frameworks-Tools
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 
 <div align="center">
     <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" width="50" height="50"/>
@@ -49,7 +49,10 @@ I love to dance and listen to music in my free time! Sometimes I even go to the 
     <img src="https://skillicons.dev/icons?i=figma"  alt="Dev C" width="50" height="50"/>
 </div>
 
----
+<h2 align="center">🚀 My Projects</h2>
+- [Job Seeker](https://github.com/MinhTuanK17/Job_Seeker): A web application to help users find job opportunities and manage their job applications.
+- [Motorcycle Rental](https://github.com/huypham67/MotorcycleRental): A project for motorcycle rental management.
+
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
@@ -58,22 +61,13 @@ I love to dance and listen to music in my free time! Sometimes I even go to the 
   <br/><br/><br/>
 </div>
 
-### 🚀 My Projects
-
-- [Job Seeker](https://github.com/MinhTuanK17/Job_Seeker): A web application to help users find job opportunities and manage their job applications.
-- [Motorcycle Rental](https://github.com/huypham67/MotorcycleRental): A project for motorcycle rental management.
-
-
-### 📈 GitHub Stats
-
+<h2 align="center">📈 GitHub Stats</h2>
 ![Minh-Tuan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Minh-TuanDev&show_icons=true&theme=radical)
 
-### 📊 Top Languages
-
+<h2 align="center">📊 Top Languages</h2>
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Minh-TuanDev&layout=compact&theme=radical)
 
-### 🔗 Connect with Me
-
+<h2 align="center">🔗 Connect with Me</h2>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([https://instagram.com/yourhandle](https://www.instagram.com/minh_tuns.231/))
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100021450552368)
