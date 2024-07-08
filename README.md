@@ -1,4 +1,4 @@
-x1<h1 align="center">
+<h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Minh+Tuan!;" />
 </h1>
 
@@ -59,7 +59,7 @@ I love to dance and listen to music in my free time! Sometimes I even go to the 
 
 ### 🚀 My Projects
 - [Job Seeker](https://github.com/MinhTuanK17/Job_Seeker): A web application to help users find job opportunities and manage their job applications.
-- [Motorcycle Rental](https://github.com/huypham67/MotorcycleRental): A project for motorcycle rental management.
+- [Motorcycle Rental](https://github.com/MinhTuanK17/Rental_Motorbikes): A project for motorcycle rental management.
 <br> 
 
 ### 📈 GitHub Stats
@@ -71,7 +71,7 @@ I love to dance and listen to music in my free time! Sometimes I even go to the 
 <br>
 
 ### 🔗 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/nguyễn-minh-tuấn-63192a317)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/minh_tuns.231/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100021450552368)
 <br>
